@@ -1,2 +1,2 @@
 # MITX
-Minimal / Mini ITX Computer 'case', designed for Alienware x51 internals.
+Minimal / Mini ITX  sized computer 'case', designed for Alienware x51 internals.
